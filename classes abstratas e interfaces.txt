@@ -46,3 +46,5 @@ define um contrato que deve ser seguido pela classe. Quando uma classe implement
 Orientação a Objetos LEITE T
 
 Atividade: separar classes em arquivos separados, utilizando a estrutura namespace
+
+zip: não precisa mandar a pasta vendor
