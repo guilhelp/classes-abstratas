@@ -1,0 +1,48 @@
+Classes Abstratas e Interfaces
+
+Herança
+
+- Generalização
+	- Superclasse
+
+- Especialização
+	- Subclasse
+
+Classes Abstratas (Abstract)
+Representam conceitos genéricos
+
+Elas criam o método mas não sua lógica, as classes que herdam a classe abstrata são obrigadas a implementar a lógica dos métodos (OBRIGATÓRIO).
+
+Classes Concretas
+Implementam a lógica
+
+Tipos de herança
+
+Simples: uma classe que herda de uma classe
+
+Múltipla: uma classe herda de duas classes
+
+Assosiação
+
+Simples:
+
+uma relação entre duas classes onde ambas as classes existem independentemente da outra
+
+Composição:
+
+uma relação entre duas classes, onde a classe "pai" possui e gerencia o ciclo de vida da classe "filha"
+
+a classe dependente só existe por causa da classe funcionário, por exemplo
+
+Agregação:
+
+a classe "filha" é idenpendente, ela existe mesmo se a classe "pai" não existir
+
+
+Interface
+
+define um contrato que deve ser seguido pela classe. Quando uma classe implementa uma interface, ela se compromete a realizar todos os comportamentos (métodos) que a interface disponibiliza
+
+Orientação a Objetos LEITE T
+
+Atividade: separar classes em arquivos separados, utilizando a estrutura namespace
